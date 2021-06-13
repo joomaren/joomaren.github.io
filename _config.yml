@@ -1,5 +1,12 @@
-site: Journal Jekyll Theme
 
+
+title : DEDOSTAR BLOG
+email : momscoding@gmail.com
+description: Five Fingers makes a beautiful star. 
+
+site: Dedostar Blog
+url : 'http://www.dedostar.com'
+timezone: Asia/Seoul 
 collections:
   pages:
     output: true

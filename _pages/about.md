@@ -1,35 +1,25 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About dedostar
+subtitle: dedostar 
+description: Five V Fingers make the star
+featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/about/dedostar_wide.jpg)
 
-## Features
+## About us
 
-Journal is packed with powerful features to showcase your work:
+DEDO means a finger in Spanish. DEDO STAR is a family team name created by our five families to create a beautiful one together.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Just as Five Finger Victory can make a beautiful star, our family collects the merits of each one to create a beautiful and valuable work.
 
-## Get Index
+DEDOSTAR aims EASY, Creativity and UNIQUE.
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+email: momscoding@gmail.com
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+
+## Meet Our Team
+
+![](/images/about/family.jpg)
+
+
