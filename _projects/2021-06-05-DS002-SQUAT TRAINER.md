@@ -1,18 +1,10 @@
 ---
-title: 'SQUAT TRAINER'
-subtitle: 'This is for SQUAT Trainger Project'
+title: 'DS 2nd Project - SQUAT TRAINER'
+subtitle: 'SQUAT TRAINER'
 date: 2021-06-05 00:00:00
-Author: 'Joon'
 featured_image: '/images/DS_PRJ/ds002_squat_trainer.jpg'
-
-categories:
-	- Blog
-tags:
-	- Blog
-	
+tag : Joon	
 ---
-
-
 
 ## IDEA
 
