@@ -1,2 +1,2 @@
-# dedostar.github.io
-DEDOSTAR BLOG
+# Joomaren.github.io
+Joomaren BLOG
