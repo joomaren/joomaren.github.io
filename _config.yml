@@ -1,11 +1,11 @@
 
 
-title : DEDOSTAR BLOG
+title : JOOMAREN BLOG
 email : momscoding@gmail.com
-description: Five Fingers makes a beautiful star. 
+description: What to do in weekend 
 
-site: Dedostar Blog
-url : 'http://www.dedostar.com'
+site: Joomaren Blog
+url : 'http://www.joomaren.com'
 timezone: Asia/Seoul 
 collections:
   pages:
