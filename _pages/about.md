@@ -1,25 +1,20 @@
 ---
-title: About dedostar
-subtitle: dedostar 
-description: Five V Fingers make the star
-featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
+title: About Joomaren
+subtitle: What to do at weekend
+description: What to do at weekend
+featured_image:  https://joomaren.github.io/images/about/finger_star.jpg
 ---
 
 ![](/images/about/dedostar_wide.jpg)
 
-## About us
+## 이번 주말엔 멀하지 ??
 
-DEDO means a finger in Spanish. DEDO STAR is a family team name created by our five families to create a beautiful one together.
+이번주말엔 무엇을 할까요?
+
 
 Just as Five Finger Victory can make a beautiful star, our family collects the merits of each one to create a beautiful and valuable work.
 
 DEDOSTAR aims EASY, Creativity and UNIQUE.
 
 email: momscoding@gmail.com
-
-
-## Meet Our Team
-
-![](/images/about/family.jpg)
-
 
