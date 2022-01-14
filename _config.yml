@@ -17,6 +17,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  p4s:
+    output: true
+    permalink: /p4s/:slug    
 
 defaults:
   -
@@ -42,7 +45,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-
+  -
+    scope:
+      path: ""
+      type: "p4s"
+    values:
+      layout: "project"
 markdown: kramdown
 
 kramdown:
