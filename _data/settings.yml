@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'P4S(Python4Stock)'
-      url: '/P4S/'      
+      url: '/projects/'      
     - title: 'About'
       url: '/about'
     - title: 'Contact'
