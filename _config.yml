@@ -50,7 +50,7 @@ defaults:
       path: ""
       type: "p4s"
     values:
-      layout: "project"
+      layout: "p4s"
 markdown: kramdown
 
 kramdown:
