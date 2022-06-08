@@ -1,2 +1,2 @@
-# Joomaren.github.io
-Joomaren BLOG
+# joonanna.github.io
+Joon & Anna BLOG
