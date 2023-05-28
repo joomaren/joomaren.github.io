@@ -5,9 +5,9 @@ description: This is the page for the stock information of joonanna
 featured_image: /images/demo/our_future.jpg
 ---
 
-## Inverst
+## Invest
 
-|  Item  | No | Qnty |
+|  Item  | No | Qty  |
 |--------|----|------|
 | 091180 | 13 | 676  | 
 | 091230 | 10 | 317  | 
