@@ -6,6 +6,7 @@ featured_image: /images/demo/our_future.jpg
 ---
 
 ## 2021~2023 DC Trade History
+
 |ID|ITEM | 	BT	|BQ|	ST|	SQ|
 |----|------|----|----|----|----|
 ||ACE 미국30년국채액티브(H)	| 58808180 	| 6854 |	 27020890 |	 3254 |
@@ -28,6 +29,7 @@ featured_image: /images/demo/our_future.jpg
 ||TIGER 현대차그룹|	 2666085 |	 130 |	 2938000 |	 130 |
 
 ## 2021~2023 Private Fund Trade History
+
 |ID|ITEM | 	BT	|BQ|	ST|	SQ|				
 |----|------|----|----|----|----|
 ||TIGER 2차전지테마|	2007615|	115|	2934800|	115|
@@ -40,6 +42,7 @@ featured_image: /images/demo/our_future.jpg
 ||KODEX 자동차|	14407470|	750|	14516250|	750|
 
 ## 2021~2023 IRP Trade History
+
 |ID|ITEM | 	BT	|BQ|	ST|	SQ|
 |----|------|----|----|----|----|
 ||TIGER 소프트웨어|	 2098785 |	229		|||
