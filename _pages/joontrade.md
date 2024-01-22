@@ -5,7 +5,7 @@ description: This is the page for the trade information of joonanna
 featured_image: /images/demo/our_future.jpg
 ---
 
-## Trading ETF
+## Joon Trading DB
 
 |ID|ITEM |TOP P|TOP Q|GAP P|GAP Q|CUR Q|
 |--|-----|--|--|--|--|--|
