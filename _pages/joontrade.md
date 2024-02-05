@@ -31,4 +31,4 @@ featured_image: /images/demo/our_future.jpg
 |373220|LG에너지솔루션|700|0|0|0|17|
 |0|STOCK_CASH|0|0|0|0|1680000|
 |0|DC_CASH|0|0|0|0|20000|
-|0|STOCK_DEBT|0|0|0|0|15880000|
+|0|STOCK_DEBT|0|0|0|0|15620000|
