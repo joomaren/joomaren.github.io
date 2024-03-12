@@ -21,3 +21,12 @@ featured_image: /images/demo/our_future.jpg
 |유럽|명품|5|--|
 |Others|Others|5|--|
 
+## SEOYI Trading DB
+
+|ID|ITEM |TOP P|TOP Q|GAP P|GAP Q|CUR Q|
+|--|-----|--|--|--|--|--|
+|305540|TIGER2차전지테마|0|0|0|0|81|
+|157490|TIGER소프트웨어|0|0|0|0|224|
+|464310|TIGER글로벌AI&로보틱스INDXX|0|0|0|0|85|
+|453850|ACE미국30년국채액티브(H)|0|0|0|0|235|
+|0|STOCK_CASH|0|0|0|0|57|
