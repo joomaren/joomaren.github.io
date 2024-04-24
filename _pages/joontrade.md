@@ -31,5 +31,5 @@ featured_image: /images/demo/our_future.jpg
 |247540|에코프로비엠|900|0|0|0|29|
 |373220|LG에너지솔루션|500|0|0|0|11|
 |0|STOCK_CASH|0|0|0|0|118|
-|0|DC_CASH|0|0|0|0|203|
+|0|DC_CASH|0|0|0|0|232|
 |0|STOCK_DEBT|0|0|0|0|1181|
