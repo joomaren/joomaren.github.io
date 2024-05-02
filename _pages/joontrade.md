@@ -33,3 +33,4 @@ featured_image: /images/demo/our_future.jpg
 |0|STOCK_CASH|0|0|0|0|207|
 |0|DC_CASH|0|0|0|0|153|
 |0|STOCK_DEBT|0|0|0|0|1177|
+|0|INFINEON|0|0|0|0|1184|
