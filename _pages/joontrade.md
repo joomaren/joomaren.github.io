@@ -34,3 +34,12 @@ featured_image: /images/demo/our_future.jpg
 |0|DC_CASH|0|0|0|0|956|
 |0|STOCK_DEBT|0|0|0|0|1359|
 |0|INFINEON|0|0|0|0|1184|
+
+
+## Joon Trading History
+
+|ID|ITEM |TOP P|TOP Q|GAP P|GAP Q|CUR Q|
+|--|-----|--|--|--|--|--|
+|091230|TIGER반도체|20240608|2|5|102|22|
+|091180|KODEX자동차|4610|9550|9096|0|0|
+|412770|TIGER글로벌메타버스액티브|12000|0|500|100|400| 
