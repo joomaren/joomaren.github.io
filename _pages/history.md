@@ -5,6 +5,26 @@ description: This is the page for the trade information of joonanna
 featured_image: /images/demo/our_future.jpg
 ---
 
+## 2022~2023 퇴직연금
+
+|ID|ITEM |BUY|SELL|
+|--|-----|---|----|
+|091180|KODEX자동차|1440|1451|
+|091230|TIGER반도체|850|932|
+|138540|TIGER현대차그룹|266|293|
+|157490|TIGER소프트웨어|2310|635|
+|228800|TIGER여행레저|300|299|
+|305540|TIGER2차전지테마|200|293|
+|364970|TIGER바이오TOP10|400|398|
+|448300|TIGER미국나스닥100TR_H|1000|1105|
+
+## ~2024.7.26 퇴직연금
+
+|ID|ITEM |BUY|SELL|
+|--|-----|---|----|
+|102110|TIGER200|239|253| 
+|157490|TIGER소프트웨어|452|427|
+
 ## Trading ETF
 
 |ID|ITEM |BT|BQ|ST|SQ|
