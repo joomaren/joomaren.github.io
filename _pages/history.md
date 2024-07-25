@@ -25,6 +25,15 @@ featured_image: /images/demo/our_future.jpg
 |102110|TIGER200|239|253| 
 |157490|TIGER소프트웨어|452|427|
 
+## 2023~ IRP
+
+|ID|ITEM |BUY|SELL|
+|--|-----|---|----|
+|157490|TIGER소프트웨어|209|213|
+|272580|TIGER단기채권액티브|143|144| 
+|305720|KODEX2차전지산업|176|192|
+|375080|KODEX 테슬라인컴프리미엄채권혼합액티브|346||
+
 ## Trading ETF
 
 |ID|ITEM |BT|BQ|ST|SQ|
