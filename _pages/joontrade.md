@@ -26,7 +26,6 @@ featured_image: /images/demo/our_future.jpg
 |464310|TIG글AI|20240625|5|5|300|253|959|1051|
 |469070|RISAI로봇|20240601|5|5|1000|1120|650|584|
 |130730|KOS단기|0|0|0|0|612|0|0|
-|0|DC_CASH|0|0|0|0|7|0|0|
 |0|INFINEON|0|0|0|0|1184|0|0|
 
 ## Joon Trading History
