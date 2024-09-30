@@ -7,7 +7,7 @@ featured_image: /images/demo/our_future.jpg
 ## Joon Trading DB
 
 
-|SEC|ID|ITEM |INV|Q|DIV|OB|OS|CB|CS|
+|SEC|ID|ITEM |DIV|INV|Q|OB|OS|CB|CS|
 |--|--|-----|--|--|--|--|--|--|--|
 |해외주식|360750|TIGER미국SP|2|301|159|0|0|1000|1030|
 |해외주식|457480|ACE테슬라밸|0|197|167|0|0|1301|1030|
