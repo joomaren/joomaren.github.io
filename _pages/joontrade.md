@@ -30,10 +30,10 @@ featured_image: /images/demo/our_future.jpg
 
 
 
-|SEC|ID|ITEM |DIV|CQ|OB|OS|CB|CS|TP|SV|TV|
-|---|--|-----|---|--|--|--|--|--|--|--|--|
-|해외주식|0|IFX|0|0|0|1184|0|0|0|0|1|
-|이익금|0|DC_Profit|0|0|0||0|127|0|0|1|
+|SEC|ID|ITEM |DIV|CQ|OB|OS|CB|CS|
+|---|--|-----|---|--|--|--|--|--|
+|해외주식|0|IFX|0|0|0|1184|0|0|
+|이익금|0|DC_Profit|0|0|0||0|127|
 
 
 ## DC
