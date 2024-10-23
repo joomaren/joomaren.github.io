@@ -6,8 +6,8 @@ featured_image: /images/demo/our_future.jpg
 ---
 ## Joon Sector DB Setting
 
-|SEC|PER|1|2|3|4|5|
-|---|---|-|-|-|-|-|
+|SEC|PER|1|2|3|4|
+|---|---|-|-|-|-|
 |해외주식|0.05|0|0|0|0|
 |2차전지|0.07|0|0|0|0|
 |소프트웨어|0.10|0|0|0|0|
