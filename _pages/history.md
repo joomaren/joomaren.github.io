@@ -5,6 +5,16 @@ description: This is the page for the trade information of joonanna
 featured_image: /images/demo/our_future.jpg
 ---
 
+## IRP
+
+|YEAR|투자|시작|종료|이익|
+|----|--|-----|---|----|
+|2021|13620|0|13409|-211|
+|2022|6888|13409|16336|-3962| 
+|2023|5999|16336|25588|3252|
+|2024||25588|||
+
+
 ## 퇴직연금
 
 |YEAR|ID|ITEM |BUY|SELL|
