@@ -37,9 +37,12 @@ featured_image: /images/demo/our_future.jpg
 |7|130730|KOSEF단기|132|0|3768|0|25107|28818|
 |7|130730|KOSEF단기|0|0|0|0|758|740|
 
+
+
 ## Joon Stock History
 
 ## 퇴직연금
+
 |YEAR|ID|ITEM |BUY|SELL|
 |----|--|-----|---|----|
 |2223|091180|KODEX자동차|1440|1451|
@@ -54,6 +57,7 @@ featured_image: /images/demo/our_future.jpg
 |0024|157490|TIGER소프트웨어|452|427|
 
 ## IRP
+
 |YEAR|ID|ITEM |BUY|SELL|배당|
 |----|--|-----|---|----|--|
 |2224|157490|TIGER소프트웨어|209|213|0|
@@ -64,6 +68,7 @@ featured_image: /images/demo/our_future.jpg
 
 
 ## 년간 투자 수익률
+
 |YEAR|입금액|출금액|시작|종료|수익률|
 |----|--|-----|---|----|--|
 |~2021|136206558|0|0|134099648|-1.87%|
